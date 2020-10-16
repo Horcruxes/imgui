@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mikey/CLionProjects/App/imgui/imconfig.h
+
+C:/Users/mikey/CLionProjects/App/imgui/imgui.h
+imconfig.h
+C:/Users/mikey/CLionProjects/App/imgui/imconfig.h
+float.h
+-
+stdarg.h
+-
+stddef.h
+-
+string.h
+-
+assert.h
+-
+stdint.h
+-
+imgui_user.h
+C:/Users/mikey/CLionProjects/App/imgui/imgui_user.h
+
+C:/Users/mikey/CLionProjects/App/imgui/imgui_impl_sdl.cpp
+imgui.h
+C:/Users/mikey/CLionProjects/App/imgui/imgui.h
+imgui_impl_sdl.h
+C:/Users/mikey/CLionProjects/App/imgui/imgui_impl_sdl.h
+SDL.h
+-
+SDL_syswm.h
+-
+TargetConditionals.h
+C:/Users/mikey/CLionProjects/App/imgui/TargetConditionals.h
+
+C:/Users/mikey/CLionProjects/App/imgui/imgui_impl_sdl.h
+imgui.h
+C:/Users/mikey/CLionProjects/App/imgui/imgui.h
+

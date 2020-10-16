@@ -1,0 +1,5 @@
+C:/Users/mikey/CLionProjects/App/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikey/CLionProjects/App/cmake-build-debug/CMakeFiles/gl3w.dir
+C:/Users/mikey/CLionProjects/App/cmake-build-debug/CMakeFiles/imgui.dir
+C:/Users/mikey/CLionProjects/App/cmake-build-debug/CMakeFiles/App.dir
+C:/Users/mikey/CLionProjects/App/cmake-build-debug/CMakeFiles/rebuild_cache.dir

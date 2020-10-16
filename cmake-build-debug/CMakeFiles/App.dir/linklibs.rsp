@@ -1,0 +1,1 @@
+ libimgui.a libgl3w.a -lmingw32 ../sdl2/lib/libSDL2main.a ../sdl2/lib/libSDL2.a -lwinmm -limm32 -lversion -lsetupapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
